@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CricketProject", "CricketProject.vcxproj", "{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Debug|x64.ActiveCfg = Debug|x64
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Debug|x64.Build.0 = Debug|x64
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Debug|x86.Build.0 = Debug|Win32
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Release|x64.ActiveCfg = Release|x64
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Release|x64.Build.0 = Release|x64
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Release|x86.ActiveCfg = Release|Win32
+		{83A474FA-A0D3-4C4C-9BC8-008FC79E98CA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B312B32A-AAE8-48FF-8B1B-AB7761B182D6}
+	EndGlobalSection
+EndGlobal

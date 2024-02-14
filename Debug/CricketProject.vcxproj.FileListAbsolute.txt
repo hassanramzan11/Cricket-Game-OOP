@@ -1,0 +1,3 @@
+C:\Users\azeem\source\repos\CricketProject\Debug\CricketProject.exe
+C:\Users\azeem\OneDrive\Desktop\CricketProject\Debug\CricketProject.exe
+E:\3 Semester\OOP LAb\CricketProject\Debug\CricketProject.exe
